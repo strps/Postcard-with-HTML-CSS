@@ -17,6 +17,7 @@ body {
 .postcard-header {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 }
 
 .postcard-header img {
@@ -26,6 +27,7 @@ body {
 
 .postcard-header h1 {
 	margin: auto;
+	margin-left: 10px;
 }
 
 .postcard-body {
@@ -56,5 +58,5 @@ input {
 
 button {
 	background-color: grey;
-	padding: 5px;
+	padding: 1px;
 }
