@@ -1,5 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Comic Neue");
+
 body {
 	background: black;
+	font-family: "Comic Neue";
 }
 
 .postcard {
@@ -55,4 +58,9 @@ input {
 button {
 	background-color: grey;
 	padding: 1px;
+}
+
+.postcard input {
+	border: 0px 0px 1px 0px;
+	background: none;
 }
